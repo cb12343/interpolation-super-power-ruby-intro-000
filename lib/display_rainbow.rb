@@ -8,4 +8,4 @@ def  display_rainbow(colors)  ["red", "orange", "yellow", "green", "blue", "indi
 
 
 end
-colors = ["red"]
+colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
